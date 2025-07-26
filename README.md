@@ -37,13 +37,3 @@ Once you have Java installed,
 ## Contact Me
 
 For feedback, questions, or suggestions, please open an issue on GitHub or email me.
-
-## Contributing
-
-If you would like to contribute to the Personal Task Manager project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and commit them.
-4. Push your changes to your forked repository.
-5. Submit a pull request to the original repository.
